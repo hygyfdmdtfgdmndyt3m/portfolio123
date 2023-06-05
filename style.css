@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .titulo {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    height: 10vh;
+  }
+  .tudo {
+    height: 90vh;
+  }
+  .caixinha {
+      width: 20%;
+      background-color: gainsboro;
+      margin-left: 5%;
+      float: left;  
+      height: 634px;
+  }
+  .fundo {
+      width: 70%;
+     background-color: darkgray;
+      margin-right: 5%;
+      float: left;  
+      height: 634px; 
+  }
+  .index {
+    background-image: url("Blue-Giant-min.webp");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+  }
+  .itens {
+    text-align: center;
+    margin-top: 100px;
+  }
+  .fotperf {
+    margin-bottom: 60px;    
+  }
+  h3 {
+    color: aquamarine;
+    margin-left: 40px;
+    margin-top: 25%;
+    font-size: 40px;
+  }
+  h4 {
+    margin-left: 40px;
+    margin-top: 25%;
+    font-size: 30px;
+    color: #fff;
+  }
+  .sobre {
+    background-image: url("istockphoto-1204859282-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .spobre {
+    font-size: 30px;
+    color: #fff;
+    margin-left: 20px;
+  }
+  .pontato {
+    margin-left: 15px;
+    size: 50px;
+  }
